@@ -1,0 +1,16 @@
+# Path to the root directory of the dataset.
+# We use an absolute path to be safe. Replace the placeholder with your actual path.
+path: /Users/saisathyakrishna/Desktop/CycloneProj2/datasets/cyclone
+
+# Paths to the image folders, relative to the 'path' above
+train: images/train
+val: images/val
+test: images/test
+
+# --- Class definition ---
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: 'cyclone_eye'

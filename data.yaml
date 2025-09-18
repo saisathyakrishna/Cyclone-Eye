@@ -1,0 +1,10 @@
+# Paths to your training and validation images
+train: ./datasets/cyclone-eye/train/images
+val: ./datasets/cyclone-eye/valid/images
+
+# --- Model Configuration ---
+# Number of classes you are detecting
+nc: 1
+
+# The names of your classes
+names: ['eye']

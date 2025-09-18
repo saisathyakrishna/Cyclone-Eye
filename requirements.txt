@@ -1,0 +1,19 @@
+# Deep Learning Frameworks
+tensorflow-macos
+ultralytics
+
+# Data Manipulation and Analysis
+numpy<2.0
+pandas
+h5py
+
+# Image Processing
+opencv-python
+scikit-image
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Utilities
+split-folders
